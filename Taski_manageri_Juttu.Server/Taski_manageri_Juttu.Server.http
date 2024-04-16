@@ -1,0 +1,6 @@
+@Taski_manageri_Juttu.Server_HostAddress = http://localhost:5214
+
+GET {{Taski_manageri_Juttu.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

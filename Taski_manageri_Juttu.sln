@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taski_manageri_Juttu.Server", "Taski_manageri_Juttu.Server\Taski_manageri_Juttu.Server.csproj", "{A2D77837-32E4-432E-BF1A-3E5EC1821FA3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "taski_manageri_juttu.client", "taski_manageri_juttu.client\taski_manageri_juttu.client.esproj", "{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D77837-32E4-432E-BF1A-3E5EC1821FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D77837-32E4-432E-BF1A-3E5EC1821FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D77837-32E4-432E-BF1A-3E5EC1821FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D77837-32E4-432E-BF1A-3E5EC1821FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A804BD-6A2E-4748-A4D1-783C7CAEBA9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C2312C-9B81-4466-AF6D-7113EB66DDA7}
+	EndGlobalSection
+EndGlobal
